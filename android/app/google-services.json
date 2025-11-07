@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750102676526",
+    "project_id": "inventory-app-aryan-sahu",
+    "storage_bucket": "inventory-app-aryan-sahu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750102676526:android:db748641c82a89eb314bbf",
+        "android_client_info": {
+          "package_name": "com.example.inclass_15"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0jvm_WQz2yOf-b59RDoyAbnVwpaer88k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
