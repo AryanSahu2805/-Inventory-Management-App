@@ -24,7 +24,7 @@ class InventoryApp extends StatelessWidget {
           elevation: 2,
           centerTitle: true,
         ),
-        cardTheme: CardTheme(
+        cardTheme: CardThemeData(  // ← CHANGED THIS LINE
           elevation: 3,
           margin: EdgeInsets.symmetric(horizontal: 12, vertical: 6),
           shape: RoundedRectangleBorder(
